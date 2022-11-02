@@ -597,6 +597,7 @@ a.menu-courses__link:hover{
 }
 
 .radio-form__input:focus + .radio-form__label::before{
+   border-radius: 50%;
    outline: 1px solid rgb(0, 0, 0);
 }
 .radio-form__input:checked + .radio-form__label::before{
